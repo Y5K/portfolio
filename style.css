@@ -471,10 +471,10 @@ body.dark .navbar-toggler-icon { filter: invert(1); }
 }
 
 .contact-card:nth-child(1) .contact-ico::before { content: "@"; }
-.contact-card:nth-child(2) .contact-ico::before { content: "TEL"; }
-.contact-card:nth-child(3) .contact-ico::before { content: "URL"; }
+.contact-card:nth-child(2) .contact-ico::before { content: "LDN"; }
+.contact-card:nth-child(3) .contact-ico::before { content: "NUM"; }
 .contact-card:nth-child(4) .contact-ico::before { content: "GIT"; }
-.contact-card:nth-child(5) .contact-ico::before { content: "SOC"; }
+.contact-card:nth-child(5) .contact-ico::before { content: "IG"; }
 
 .contact-label {
   margin-bottom: 3px;
